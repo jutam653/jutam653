@@ -1,4 +1,4 @@
-### Hi there, I'm Julian! 👋
+![Header](/header.png)
 
 Passionate fullstack software engineer. Here's the tech stack that I currently use in my projects!
 
