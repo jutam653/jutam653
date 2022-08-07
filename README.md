@@ -2,10 +2,22 @@
 
 Passionate fullstack software engineer. Here's the tech stack that I currently use in my projects!
 
-#### Front-end:
-JavaScript, React.js, Next.js, HTML, CSS
-#### Back-end: 
-Node.js, Express, MySQL, PostgreSQL, MongoDB
+<h3 align="left">Front-end</h3>
+<p align="left">
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"  alt="" height="40" width="50" />
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="" height="40" width="50" />
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="" height="40" width="50" />
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="" height="40" width="50" />
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="" height="40" width="50" />
+</p>
+
+<h3 align="left">Back-end</h3>
+<p align="left">
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"  alt="" height="40" width="50" />
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="" height="40" width="50" />
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="" height="40" width="50" />
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="" height="40" width="50" />
+</p>
 
 
 🌱 I’m currently learning anything I can (especially data structures and algorithms)!
