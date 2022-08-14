@@ -14,6 +14,7 @@ Passionate fullstack software engineer. Here's the tech stack that I currently u
 <h3 align="left">Back-end</h3>
 <p align="left">
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"  alt="" height="40" width="50" />
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" alt="" height="40" width="50" />
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="" height="40" width="50" />
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="" height="40" width="50" />
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="" height="40" width="50" />
