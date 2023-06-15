@@ -22,11 +22,6 @@ Passionate fullstack software engineer. Here's the tech stack that I currently u
 
 
 🌱 I’m currently learning anything I can (especially data structures and algorithms)!
-
-## Github Stats
-
-[![Julian's GitHub stats](https://github-readme-stats.vercel.app/api?username=jutam653&show_icons=true&theme=radical)](https://github.com/jutam653/github-readme-stats)
-
 <!--
 **jutam653/jutam653** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
